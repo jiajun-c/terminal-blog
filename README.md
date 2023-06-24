@@ -1,6 +1,6 @@
-# [M4TT72 | Terminal](https://term.m4tt72.com)
+# [Terminal|Blog]
 
-A terminal style website
+A terminal style blog
 
 ![screenshot](/docs/screenshot.png)
 
@@ -69,14 +69,3 @@ Here's a sample of the `config.json` file:
 ![themes](/docs/screenshot.gif)
 
 [Here's](/docs/themes) a list of available themes.
-
-
-## Contributing
-
-Please feel free to pull requests or log issues.
-
-Thanks!
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=m4tt72/terminal&type=Date)](https://star-history.com/#m4tt72/terminal&Date)
